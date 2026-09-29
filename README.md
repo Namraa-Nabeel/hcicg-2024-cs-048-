@@ -1,1 +1,2 @@
-# hcicg-2024-cs-048-
+# HCI & Computer Graphics
+Name: Namra Nabeel

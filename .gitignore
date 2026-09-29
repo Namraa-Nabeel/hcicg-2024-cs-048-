@@ -1,4 +1,4 @@
-build/,
-*.o,
-__pychache__/,
+build/
+*.o
+__pychache__/
 venv/
